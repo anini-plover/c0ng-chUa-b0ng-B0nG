@@ -1,2 +1,1 @@
-# dung-vo-dien-giat-m-neee
-2048 và 6 thợ điện
+#xin cho ta tan vao nhung dam duoi mien man
